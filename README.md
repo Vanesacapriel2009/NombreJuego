@@ -7,5 +7,5 @@ Documento alizo requerimiento funcional y no funcional
 # Fase2.Dise;o
 Diagrama de flujo
 
-# Fase3.Dise;o
+# Fase3.Desarrollo
 Codigo en lenguaje de programacion de python
